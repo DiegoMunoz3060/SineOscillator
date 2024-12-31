@@ -66,3 +66,8 @@ The goal of this project was to:
    ```bash
    git clone https://github.com/your-username/audio-oscillator-project.git
    cd AudioFIleClass
+2. Run the file either via the terminal or your IDE run button
+  - This should result in an output file of type wav.
+ 
+3. Import the .wav file to Audacity, with the following settings
+<img width="314" alt="Screenshot 2024-12-31 at 11 09 19 AM" src="https://github.com/user-attachments/assets/a4c6af30-6a83-493e-a142-20f3c95e70d5" />
