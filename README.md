@@ -65,4 +65,4 @@ The goal of this project was to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/audio-oscillator-project.git
-   cd audio-oscillator-project
+   cd AudioFIleClass
